@@ -5,8 +5,6 @@
 
 ## Top_Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhz0&layout=compact)](https://github.com/chhz0/)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=chhz0)
 <!---
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
