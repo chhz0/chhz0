@@ -1,0 +1,14 @@
+name: Waka Readme
+
+on:
+  workflow_dispathch:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  update-readme: Update this repo's README
+  runs-on: ubunutu-latest
+  steps:
+    - uses: athul/waka-readme@master
+      with:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
